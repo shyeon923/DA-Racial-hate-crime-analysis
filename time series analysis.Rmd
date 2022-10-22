@@ -365,7 +365,7 @@ forecasting2$pred
 pred_allHC
 ```
 
-# 2. Black hate crime 
+# 2. Anti-African American or Black hate crime 
 ### Get time series plots for anit-African American or Black hate crimes
 ```{r}
 summary(blackHC)
