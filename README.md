@@ -3,7 +3,7 @@
 *author*: Seung Hyeon Mandy Hong
 
 # Data
-Our main datasets come from the Federal Bureau of Investigation Crime Data Explorer and U.S Census Bureau.
+Main datasets come from the Federal Bureau of Investigation Crime Data Explorer and U.S Census Bureau.
 
 # Code
 I use Python 3 to collect and clean data (Van Rossum & Drake, 2009). For descriptive and predictive analysis, we use R v4.1.3 (R Core Team, 2022).
