@@ -34,6 +34,7 @@ Main datasets come from the Federal Bureau of Investigation Crime Data Explorer 
 10. *census_w_hc.csv*: five years of data by state level with 34 columns including demographic, socioeconomic, and racial hate crime variables
 11. *census_w_hc_five_agg.csv*: five years aggregated data by state level with 32 columns including demographic, socioeconomic, and racial hate crime variables.
 12. ***census_w_hc_FINAL***: five years of aggregated data by state level with 13 columns including demographic, socioeconomic, and racial hate crime variables. This dataset is mainly used to do analysis.
+13. *state_abbr.csv*: list of states with state abbreviation which is downloaded from World Population Review.
 
 # Code
 
