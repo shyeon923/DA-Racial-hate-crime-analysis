@@ -4,7 +4,7 @@
 
 *Author*: Seung Hyeon Mandy Hong
 
-*Denison University, Fall 2022, DA 401*
+*Denison University, Fall 2022, DA 401 Senior Research*
 
 # Description
 A crime where offenders' bias against race/ethnicity/ancestry acts as a primary motivation is defined as a racial hate crime (United States Department of Justice, n.d.). In 2020, hate crime in the US hit a historic high in 12 years (Carrega & Krishnakumar, 2021). Among 7,554 incidents, 61.9% were racial hate crimes, and among those racial hate crimes, two racial groups, Black or African American and Asian, had the highest increase (146% and 173% each) (Federal Bureau of Investigation, 2021). While most of the recent hate crimes involved a racial bias, past studies included all categories of hate crimes rather than focusing on racial hate crimes . Our research focuses on all racial hate crimes, and racial hate crimes involving African American or Black and Asian victims. We are primarily interested in answering three questions; (a) What is the trend of racial hate crimes over time? (b) What demographic and socioeconomic variables contribute to racial hate crimes? (c) What supervised model can best predict racial hate crimes? To answer (a), we use time series analysis. To answer (b) and (c), we use stepwise multiple regression and *k* nearest neighbors algorithm.
